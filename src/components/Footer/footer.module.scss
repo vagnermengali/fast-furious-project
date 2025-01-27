@@ -1,0 +1,19 @@
+.footer {
+  background: #000;
+}
+
+.footer__container {
+  margin: 0 auto;
+  max-width: 1440px;
+  padding: 3rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer__link {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: #71717a;
+  text-align: center;
+}
