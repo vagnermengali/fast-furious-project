@@ -11,7 +11,7 @@ const App = () => {
       <Header />
       <div className="app-container">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/fast-furious-project" element={<Home />} />
         </Routes>
       </div>
       <Footer />
